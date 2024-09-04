@@ -2,6 +2,8 @@
 
 ## Das ist ein Baum
 
+Wie sieht diese Änderung in Git aus?
+
 ![][image-1]
 
 
